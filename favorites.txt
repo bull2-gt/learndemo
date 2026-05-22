@@ -2,3 +2,5 @@ apple
 pear
 pineapple
 orange
+grape
+Lemon
