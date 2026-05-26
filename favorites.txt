@@ -1,7 +1,3 @@
-apple
-pear
-pineapple
-orange
 Die Hard
 The Terminator
 To Live
