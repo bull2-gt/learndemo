@@ -22,3 +22,9 @@ Orange
 Grape
 Pear
 Apple
+blueberry
+pineapple
+raspberry
+lemon
+strawberry
+
