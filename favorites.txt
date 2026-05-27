@@ -3,8 +3,6 @@ pear
 pineapple
 orange
 Die Hard
-The Terminator
-To Live
 The Usual Suspects
 Zootopia
 Pulp Fiction
