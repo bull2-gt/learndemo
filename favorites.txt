@@ -1,6 +1,10 @@
 apple
+blueberry
 pear
 pineapple
+raspberry
 orange
 grape
-Lemon
+lemon
+strawberry
+
