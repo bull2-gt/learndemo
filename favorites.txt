@@ -1,3 +1,4 @@
+Movies:
 Die Hard
 The Usual Suspects
 Zootopia
@@ -16,3 +17,8 @@ Diablo
 Need for Speed
 NBA 2K26
 
+Foods:
+Orange
+Grape
+Pear
+Apple
